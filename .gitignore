@@ -1,0 +1,19 @@
+# exclude /src/**/*.js
+/src/**/*.js
+/src/**/*.map
+/src/**/*.ngstyle.ts
+/src/**/*.ngfactory.js
+/src/**/*.ngfactory.ts
+/src/**/*.ngsummary.json
+/src/**/*.d.ts
+/example/**/*.js
+/example/**/*.ngstyle.ts
+/example/**/*.ngfactory.js
+/example/**/*.ngfactory.ts
+/example/**/*.ngsummary.json
+/node_modules/**/*
+/docs/**/*.map
+/docs/**/*.bundle.js
+/dist/**/*
+.idea/
+/src/tsconfig.json
